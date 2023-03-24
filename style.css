@@ -1,0 +1,26 @@
+body {
+    background-image: url(imagenes/whale.jpg) no-repeat top center;
+    background-size: 900px 700px;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+
+.texto{
+background-color: rgba(36, 3, 3, 0.199);
+border: solid;
+font-family: "arial";
+font-size: 150%;
+margin: 0 auto;
+padding: 2em;
+width: 30%;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
